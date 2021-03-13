@@ -1,5 +1,5 @@
 ## InstagramClone
-> *Reprodução do layout da instgram
+> *Reprodução do layout da instagram
 
 
 ## Skill do Projeto:
